@@ -1,0 +1,16 @@
+{
+  "username" : "krhoe16",
+  "goals" :
+  [
+    {
+    "goal" : "Improve",
+    "Confidence" : 10
+    },
+    {"goal" : "Challenge myself",
+    "Confidence" :  9
+    },
+    {"goal" : "Learning",
+    "Confidence" :  10
+    }
+  ]
+}
