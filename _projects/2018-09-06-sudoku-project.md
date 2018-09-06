@@ -9,7 +9,6 @@ topics:  <ul>
     <li> Java </li>
   </ul>
 layout: main
-
 ---
 
 The project on boolean satisfiability was done through one of my programming courses while I was studying in Denmark. 
