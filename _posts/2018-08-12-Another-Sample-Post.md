@@ -1,10 +1,10 @@
 ---
-title: Another Post
+title: Today I made my 2nd post.
 layout: post
 ---
 
-This is just another post to make sure that your loop is working as expected.
+It was a thrilling sensation to check if the loop for the posts worked correctly so when I commited to github the suspense was almost too much.
 
-## Another Section
+## Second section
 
-Just a little more text.
+It worked!
