@@ -1,6 +1,6 @@
 ---
 title: Jekyll Project
-layout: post
+layout: main
 ---
 
 What you have been browsing through is the Jekyll project!
