@@ -5,6 +5,7 @@ description: This project is about setting up a github pages that's a bit more d
 image: jekyll.JPG
 topics:
 layout: main
+
 ---
 
 What you have been browsing through is the Jekyll project!
