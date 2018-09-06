@@ -3,16 +3,15 @@ layout: main
 title: About
 ---
 
-## pwright4
+## krhoe16
 
-This is just a page where you can put whatever content you'd like.
+Hello this is my about page where there's stuff about me.
 
 ## Contact Information
 
-Here you could, for instance, link to your [GitHub](http://www.github.com/pwright4) or 
-[Twitter](http://www.twitter.com/msupwright4) profiles.
+The link to my github is [GitHub](http://www.github.com/krhoe16).
+My email is: khoybye@murraystate.edu
 
 ## Other Pages
 
-You can also add pages other than an about page by just creating a markdown file in your 
-repository's directory structure where you want the page to appear.
+This is a link to a [song](https://www.youtube.com/watch?v=mOFvJVroAJE) I really like for the time being.
