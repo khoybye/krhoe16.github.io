@@ -5,4 +5,9 @@ layout: main
 
 {% for project in site.projects %}
   <h2><a href="{{site.baseurl}}{{project.url}}">{{project.title}}</a></h2>
+  <ul>
+    <li> {{project.courseNumber}} </li>
+    <li> {{project.description}} </li>
+    <li> test </li>
+  </ul>
 {% endfor %}
