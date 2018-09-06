@@ -5,10 +5,12 @@ layout: main
 
 {% for project in site.projects %}
   <h2><a href="{{site.baseurl}}{{project.url}}">{{project.title}}</a></h2>
-  <ul>
-    <li> {{project.courseNumber}} </li>
-    <li> {{project.description}} </li>
-    <li> <img src="krhoe16.github.io/images/{{project.image}}" alt="image" width="300" height="160"> </li>
-    <li>Topics </br> {{project.topics}} </li>
-  </ul>
+  <p>
+    <ul>
+      <li> {{project.courseNumber}} </li>
+      <li> {{project.description}} </li>
+      <li> <img src="krhoe16.github.io/images/{{project.image}}" alt="image" width="300" height="160"> </li>
+      <li>Topics </br> {{project.topics}} </li>
+    </ul>
+  </p>
 {% endfor %}
