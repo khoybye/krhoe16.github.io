@@ -1,18 +1,10 @@
 ---
-title: My Project Diary
+title: pwright4's projects
 layout: main
 ---
 
-<p>For the love of god work</p>
 {% for post in site.posts %}
-<article>
-  <h2><a href="{{site.baseurl}}{{post.url}}">
-    {{post.title}}
-    </a>
-  </h2>
-  <p>
-    {{post.excerpt}}
-  </p>
-  <p><a href="{{site.baseurl}}{{site.url}}">Continue reading...</a></p>
-</article>
+  <h2><a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a></h2>
+  {{ post.excerpt }}
+  <a href="{{site.baseurl}}{{post.url}}">Read More</a>
 {% endfor %}
