@@ -1,0 +1,27 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+h1 {
+  color: blue;
+  font-size: 5em;
+  -webkit-margin-before: 1em;
+  -webkit-margin-after: 1em;
+  font-weight: bolder;
+  font-style: italic;
+}
+
+h2 {
+  font-size: 2em;
+  font-style: italic;
+}
+p {
+  font-style: italic;
+  font-size: 1.5em;
+
+}
+
+a {
+  font-size: 1.5em;
+}
