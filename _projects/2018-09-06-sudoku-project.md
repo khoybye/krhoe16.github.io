@@ -11,5 +11,5 @@ topics:  <ul>
 layout: main
 ---
 
-The project on boolean satisfiability was done through one of my programming courses while I was studying in Denmark. 
+The project on boolean satisfiability was done through one of my programming courses while I was studying in Denmark.<br/>
 It was a group project where we had to use boolean satisfiability for our solver.
