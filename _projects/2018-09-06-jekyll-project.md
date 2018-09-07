@@ -10,7 +10,6 @@ topics:  <ul>
     <li> Jekyll </li>
   </ul>
 layout: main
-
 ---
 
 What you have been browsing through is the Jekyll project!
