@@ -5,7 +5,10 @@ title: About
 
 ## krhoe16
 
-Hello this is my about page where there's stuff about me. For example I'm a CSC undergraduate at MSU.
+Hello this is my about page where there's stuff about me.
+
+I'm an international student studying abroad for a semester at Murray State University.<br/> Originally I'm from denmark
+where I've studied computer science for 2 years at The University of Southern Denmark.
 
 ## Contact Information
 
